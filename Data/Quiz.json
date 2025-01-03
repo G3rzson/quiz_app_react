@@ -1,0 +1,99 @@
+{
+    "Theme": {
+      "sport": [
+        {
+          "question": "Melyik ország nyerte a legtöbb labdarúgó-világbajnokságot?",
+          "answers": [
+            { "id": 1, "answer": "Brazília", "isCorrect": true },
+            { "id": 2, "answer": "Olaszország", "isCorrect": false },
+            { "id": 3, "answer": "Argentína", "isCorrect": false },
+            { "id": 4, "answer": "Németország", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Hány játékos van egy kosárlabdacsapatban a pályán egyszerre?",
+          "answers": [
+            { "id": 1, "answer": "5", "isCorrect": true },
+            { "id": 2, "answer": "6", "isCorrect": false },
+            { "id": 3, "answer": "7", "isCorrect": false },
+            { "id": 4, "answer": "4", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Ki nyerte a legtöbb Grand Slam címet a férfi teniszezők között 2023-ig?",
+          "answers": [
+            { "id": 1, "answer": "Novak Djokovic", "isCorrect": true },
+            { "id": 2, "answer": "Roger Federer", "isCorrect": false },
+            { "id": 3, "answer": "Rafael Nadal", "isCorrect": false },
+            { "id": 4, "answer": "Pete Sampras", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Melyik évben rendeztek először modern olimpiai játékokat?",
+          "answers": [
+            { "id": 1, "answer": "1896", "isCorrect": true },
+            { "id": 2, "answer": "1900", "isCorrect": false },
+            { "id": 3, "answer": "1912", "isCorrect": false },
+            { "id": 4, "answer": "1924", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Milyen hosszú a maratoni futás hivatalos távja?",
+          "answers": [
+            { "id": 1, "answer": "21,1 km", "isCorrect": false },
+            { "id": 2, "answer": "30 km", "isCorrect": false },
+            { "id": 3, "answer": "42,195 km", "isCorrect": true },
+            { "id": 4, "answer": "50 km", "isCorrect": false }
+          ]
+        }
+      ],
+      "kozelet": [
+        {
+          "question": "Melyik ország volt az Európai Unió alapító tagja?",
+          "answers": [
+            { "id": 1, "answer": "Franciaország", "isCorrect": true },
+            { "id": 2, "answer": "Spanyolország", "isCorrect": false },
+            { "id": 3, "answer": "Írország", "isCorrect": false },
+            { "id": 4, "answer": "Lengyelország", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Mi a neve az ENSZ legfőbb döntéshozó szervének?",
+          "answers": [
+            { "id": 1, "answer": "Biztonsági Tanács", "isCorrect": true },
+            { "id": 2, "answer": "Közgyűlés", "isCorrect": false },
+            { "id": 3, "answer": "Emberi Jogi Tanács", "isCorrect": false },
+            { "id": 4, "answer": "Világfórum", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Melyik magyar városban található az Országgyűlés épülete?",
+          "answers": [
+            { "id": 1, "answer": "Budapest", "isCorrect": true },
+            { "id": 2, "answer": "Debrecen", "isCorrect": false },
+            { "id": 3, "answer": "Szeged", "isCorrect": false },
+            { "id": 4, "answer": "Győr", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Mikor írták alá a trianoni békeszerződést?",
+          "answers": [
+            { "id": 1, "answer": "1920", "isCorrect": true },
+            { "id": 2, "answer": "1918", "isCorrect": false },
+            { "id": 3, "answer": "1923", "isCorrect": false },
+            { "id": 4, "answer": "1939", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Melyik magyar városban található az Országalma?",
+          "answers": [
+            { "id": 1, "answer": "Székesfehérvár", "isCorrect": true },
+            { "id": 2, "answer": "Győr", "isCorrect": false },
+            { "id": 3, "answer": "Budapest", "isCorrect": false },
+            { "id": 4, "answer": "Pécs", "isCorrect": false }
+          ]
+        }
+      ]
+    }
+}
+  
