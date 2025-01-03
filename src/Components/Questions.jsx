@@ -18,7 +18,7 @@ export default function Questions({
     score,
 }) {
     useEffect(() => {
-        fetch('/Data/Quiz.json')
+        fetch('/quiz_app_react/Data/Quiz.json')
             .then((response) => {
                 if (!response.ok) {
                     throw new Error('Hiba történt a kérdések lekérésekor.');
